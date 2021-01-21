@@ -776,5 +776,13 @@ footer{
 
 .history-items{
     margin-bottom: 30px;
-} 
+}
 
+.center-form{
+    text-align: center;
+    position: block;
+    padding: 20px;
+
+    
+
+}
